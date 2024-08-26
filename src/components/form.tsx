@@ -76,8 +76,7 @@ export default function Form() {
           <DialogHeader>
             <DialogTitle>Add a new tips</DialogTitle>
             <DialogDescription>
-              Make changes to your profile here. Click save when you&apos;re
-              done.
+              Add your tips here. Click save when you&apos;re done.
             </DialogDescription>
           </DialogHeader>
           <form id={form.id} onSubmit={form.onSubmit} action={action}>
