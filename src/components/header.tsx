@@ -5,7 +5,7 @@ export default function Header() {
     <header className="bg-primary text-primary-foreground py-4 px-6 shadow">
       <div className="container mx-auto flex items-center justify-between">
         <Link href="#" className="text-xl font-bold">
-          Programming Tips
+          CodeCraft Tips
         </Link>
       </div>
     </header>
